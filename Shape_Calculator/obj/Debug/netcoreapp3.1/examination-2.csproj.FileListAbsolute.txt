@@ -1,0 +1,13 @@
+C:\Users\ahyro\1dv024\examination-2\bin\Debug\netcoreapp3.1\examination-2.exe
+C:\Users\ahyro\1dv024\examination-2\bin\Debug\netcoreapp3.1\examination-2.deps.json
+C:\Users\ahyro\1dv024\examination-2\bin\Debug\netcoreapp3.1\examination-2.runtimeconfig.json
+C:\Users\ahyro\1dv024\examination-2\bin\Debug\netcoreapp3.1\examination-2.runtimeconfig.dev.json
+C:\Users\ahyro\1dv024\examination-2\bin\Debug\netcoreapp3.1\examination-2.dll
+C:\Users\ahyro\1dv024\examination-2\bin\Debug\netcoreapp3.1\examination-2.pdb
+C:\Users\ahyro\1dv024\examination-2\obj\Debug\netcoreapp3.1\examination-2.csprojAssemblyReference.cache
+C:\Users\ahyro\1dv024\examination-2\obj\Debug\netcoreapp3.1\examination-2.csproj.CoreCompileInputs.cache
+C:\Users\ahyro\1dv024\examination-2\obj\Debug\netcoreapp3.1\examination-2.AssemblyInfoInputs.cache
+C:\Users\ahyro\1dv024\examination-2\obj\Debug\netcoreapp3.1\examination-2.AssemblyInfo.cs
+C:\Users\ahyro\1dv024\examination-2\obj\Debug\netcoreapp3.1\examination-2.dll
+C:\Users\ahyro\1dv024\examination-2\obj\Debug\netcoreapp3.1\examination-2.pdb
+C:\Users\ahyro\1dv024\examination-2\obj\Debug\netcoreapp3.1\examination-2.genruntimeconfig.cache
